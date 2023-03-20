@@ -9,6 +9,7 @@ var S = keyboard_check(ord("S"));
 var hspd = D - A;
 var vspd = S - W;
 
+
 if (hspd != 0 || vspd != 0)
 {
     var dir = point_direction(0, 0, hspd, vspd);
