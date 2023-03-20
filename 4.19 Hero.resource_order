@@ -32,7 +32,6 @@
     {"name":"Sp_HeroIdleRight","order":5,"path":"sprites/Sp_HeroIdleRight/Sp_HeroIdleRight.yy",},
     {"name":"Sp_Walls","order":2,"path":"sprites/Sp_Walls/Sp_Walls.yy",},
     {"name":"Sprite13","order":12,"path":"sprites/Sprite13/Sprite13.yy",},
-    {"name":"Sprite15","order":14,"path":"sprites/Sprite15/Sprite15.yy",},
     {"name":"Obj_Solid","order":1,"path":"objects/Obj_Solid/Obj_Solid.yy",},
     {"name":"Sprite14","order":13,"path":"sprites/Sprite14/Sprite14.yy",},
     {"name":"Sprite12","order":11,"path":"sprites/Sprite12/Sprite12.yy",},

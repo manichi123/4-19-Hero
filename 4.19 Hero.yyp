@@ -51,7 +51,6 @@
     {"id":{"name":"Sp_HeroIdleRight","path":"sprites/Sp_HeroIdleRight/Sp_HeroIdleRight.yy",},},
     {"id":{"name":"Sp_Walls","path":"sprites/Sp_Walls/Sp_Walls.yy",},},
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},},
-    {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
     {"id":{"name":"Obj_Solid","path":"objects/Obj_Solid/Obj_Solid.yy",},},
     {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},},
     {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},},
