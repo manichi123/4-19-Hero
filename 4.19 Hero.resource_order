@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"Cursor","order":2,"path":"objects/Cursor/Cursor.yy",},
     {"name":"Sp_GreenSh","order":3,"path":"sprites/Sp_GreenSh/Sp_GreenSh.yy",},
+    {"name":"Sprite16","order":15,"path":"sprites/Sprite16/Sprite16.yy",},
     {"name":"Sp_Solid","order":9,"path":"sprites/Sp_Solid/Sp_Solid.yy",},
     {"name":"TS_Grass","order":1,"path":"tilesets/TS_Grass/TS_Grass.yy",},
     {"name":"Sp_HeroMoveRight","order":7,"path":"sprites/Sp_HeroMoveRight/Sp_HeroMoveRight.yy",},
@@ -26,6 +27,7 @@
     {"name":"Sp_PlayerIdle","order":10,"path":"sprites/Sp_PlayerIdle/Sp_PlayerIdle.yy",},
     {"name":"TS_Walls","order":2,"path":"tilesets/TS_Walls/TS_Walls.yy",},
     {"name":"Main","order":1,"path":"rooms/Main/Main.yy",},
+    {"name":"Sp_GrassHead","order":14,"path":"sprites/Sp_GrassHead/Sp_GrassHead.yy",},
     {"name":"TS_Props","order":4,"path":"tilesets/TS_Props/TS_Props.yy",},
     {"name":"Sp_HeroMoveLeft","order":8,"path":"sprites/Sp_HeroMoveLeft/Sp_HeroMoveLeft.yy",},
     {"name":"TS_GreenSh","order":3,"path":"tilesets/TS_GreenSh/TS_GreenSh.yy",},
@@ -34,7 +36,6 @@
     {"name":"Sprite13","order":12,"path":"sprites/Sprite13/Sprite13.yy",},
     {"name":"Obj_Solid","order":1,"path":"objects/Obj_Solid/Obj_Solid.yy",},
     {"name":"Sprite14","order":13,"path":"sprites/Sprite14/Sprite14.yy",},
-    {"name":"Sprite12","order":11,"path":"sprites/Sprite12/Sprite12.yy",},
     {"name":"Sp_Grass","order":1,"path":"sprites/Sp_Grass/Sp_Grass.yy",},
     {"name":"Sp_Props","order":4,"path":"sprites/Sp_Props/Sp_Props.yy",},
   ],
