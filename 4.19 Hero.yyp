@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"Cursor","path":"objects/Cursor/Cursor.yy",},},
+    {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},
     {"id":{"name":"Sp_GreenSh","path":"sprites/Sp_GreenSh/Sp_GreenSh.yy",},},
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},},
     {"id":{"name":"Sp_Solid","path":"sprites/Sp_Solid/Sp_Solid.yy",},},
@@ -49,6 +50,7 @@
     {"id":{"name":"TS_Props","path":"tilesets/TS_Props/TS_Props.yy",},},
     {"id":{"name":"Sp_HeroMoveLeft","path":"sprites/Sp_HeroMoveLeft/Sp_HeroMoveLeft.yy",},},
     {"id":{"name":"TS_GreenSh","path":"tilesets/TS_GreenSh/TS_GreenSh.yy",},},
+    {"id":{"name":"Sp_PlayerMoveRight","path":"sprites/Sp_PlayerMoveRight/Sp_PlayerMoveRight.yy",},},
     {"id":{"name":"Obj_Hero","path":"objects/Obj_Hero/Obj_Hero.yy",},},
     {"id":{"name":"Sp_HeroIdleRight","path":"sprites/Sp_HeroIdleRight/Sp_HeroIdleRight.yy",},},
     {"id":{"name":"Sp_Walls","path":"sprites/Sp_Walls/Sp_Walls.yy",},},
