@@ -24,6 +24,7 @@
     {"name":"Sp_Solid","order":9,"path":"sprites/Sp_Solid/Sp_Solid.yy",},
     {"name":"Sp_PlayerIdleBack","order":18,"path":"sprites/Sp_PlayerIdleBack/Sp_PlayerIdleBack.yy",},
     {"name":"TS_Grass","order":1,"path":"tilesets/TS_Grass/TS_Grass.yy",},
+    {"name":"AnimationCurve1","order":19,"path":"animcurves/AnimationCurve1/AnimationCurve1.yy",},
     {"name":"Sp_HeroMoveRight","order":7,"path":"sprites/Sp_HeroMoveRight/Sp_HeroMoveRight.yy",},
     {"name":"Sp_HeroIdleLeft","order":6,"path":"sprites/Sp_HeroIdleLeft/Sp_HeroIdleLeft.yy",},
     {"name":"Sp_PlayerIdle","order":10,"path":"sprites/Sp_PlayerIdle/Sp_PlayerIdle.yy",},

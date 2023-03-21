@@ -42,6 +42,7 @@
     {"id":{"name":"TS_Green","path":"tilesets/TS_Green/TS_Green.yy",},},
     {"id":{"name":"Sp_PlayerIdleBack","path":"sprites/Sp_PlayerIdleBack/Sp_PlayerIdleBack.yy",},},
     {"id":{"name":"TS_Grass","path":"tilesets/TS_Grass/TS_Grass.yy",},},
+    {"id":{"name":"AnimationCurve1","path":"animcurves/AnimationCurve1/AnimationCurve1.yy",},},
     {"id":{"name":"Sp_HeroMoveRight","path":"sprites/Sp_HeroMoveRight/Sp_HeroMoveRight.yy",},},
     {"id":{"name":"Sp_HeroIdleLeft","path":"sprites/Sp_HeroIdleLeft/Sp_HeroIdleLeft.yy",},},
     {"id":{"name":"Sp_PlayerIdle","path":"sprites/Sp_PlayerIdle/Sp_PlayerIdle.yy",},},
