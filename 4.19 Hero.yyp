@@ -40,6 +40,7 @@
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},},
     {"id":{"name":"Sp_Solid","path":"sprites/Sp_Solid/Sp_Solid.yy",},},
     {"id":{"name":"TS_Green","path":"tilesets/TS_Green/TS_Green.yy",},},
+    {"id":{"name":"Sp_PlayerIdleBack","path":"sprites/Sp_PlayerIdleBack/Sp_PlayerIdleBack.yy",},},
     {"id":{"name":"TS_Grass","path":"tilesets/TS_Grass/TS_Grass.yy",},},
     {"id":{"name":"Sp_HeroMoveRight","path":"sprites/Sp_HeroMoveRight/Sp_HeroMoveRight.yy",},},
     {"id":{"name":"Sp_HeroIdleLeft","path":"sprites/Sp_HeroIdleLeft/Sp_HeroIdleLeft.yy",},},
